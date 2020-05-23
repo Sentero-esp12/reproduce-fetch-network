@@ -1,5 +1,5 @@
 {
-  "name": "electron-lichess",
+  "name": "electron-network-example",
   "version": "0.0.1",
   "description": "move the development to a desktop app",
   "main": "index.js",
