@@ -1,5 +1,4 @@
-fetch/node_modules/
-network/node_modules/
-fetch/.vscode/
-network/.vscode/
+.gitignore
+node_modules
+.vscode
 package-lock.json
