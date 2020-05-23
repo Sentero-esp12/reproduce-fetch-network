@@ -4,6 +4,7 @@
 
  I've created two electron mini-apps to to show the issue. 
  The one in the Fetch folder is using Fetch: https://chromedevtools.github.io/devtools-protocol/tot/Fetch/
+ 
  The one in the Network folder is using Network: https://chromedevtools.github.io/devtools-protocol/tot/Network/
 
  They get stuck on the line
