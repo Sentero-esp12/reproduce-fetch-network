@@ -1,3 +1,5 @@
-fetch/node_modules
-network/node_modules
+fetch/node_modules/
+network/node_modules/
+fetch/.vscode/
+network/.vscode/
 package-lock.json
